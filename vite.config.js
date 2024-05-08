@@ -9,7 +9,7 @@ import { ElementPlusResolver } from 'unplugin-vue-components/resolvers'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/shopping2/',
+  base: '/github-shopping2/',
   plugins: [
     vue(),
     AutoImport({
